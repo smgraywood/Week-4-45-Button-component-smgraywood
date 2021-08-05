@@ -1,0 +1,68 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh
+}
+body{
+  background-image: linear-gradient(white, rgb(42, 255, 192));
+}
+.buttonOne{
+  background-color: #B980F0;
+  color:#ffffff;
+  border-radius: 15px;
+  padding: 5px 15px;
+  border:#ffffff;
+  border-style:dotted;
+  margin: 10px;
+  cursor: pointer;
+  text-shadow: 2px 2px #000;
+}
+.buttonOne:hover{
+  opacity: .8;
+  transform: translateY(1px);
+}
+.buttonTwo{
+  background-color: #FE9898;
+  color:#ffffff;
+  border-radius: 15px;
+  padding: 10px 15px;
+  border:#ffffff;
+  border-style:dotted;
+  margin: 10px;
+  cursor: pointer;
+  text-shadow: 2px 2px #000;
+}
+.buttonTwo:hover{
+  opacity: .8;
+  transform: translateY(1px);
+}
+.buttonThree{
+  background-color: #F5E79D;
+  color:#ffffff;
+  border-radius: 15px;
+  padding: 15px 15px;
+  border:#ffffff;
+  border-style:dotted;
+  margin: 10px;
+  cursor: pointer;
+  text-shadow: 2px 2px #000;
+}
+.buttonThree:hover{
+  opacity: .8;
+  transform: translateY(1px);
+}
+.buttonFour{
+  background-color: #E5FBB8;
+  color:#ffffff;
+  border-radius: 15px;
+  padding: 20px 15px;
+  border:#ffffff;
+  border-style:dotted;
+  margin: 10px;
+  cursor: pointer;
+  text-shadow: 2px 2px #000;
+}
+.buttonFour:hover{
+  opacity: .8;
+  transform: translateY(1px);
+}
